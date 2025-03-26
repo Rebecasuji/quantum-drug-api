@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+torch_geometric
+rdkit
+pennylane
+scikit-learn
+networkx
+numpy
